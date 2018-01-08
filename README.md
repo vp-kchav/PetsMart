@@ -1,2 +1,2 @@
 # PetsMart
-This projects is being created for WAA course project.
+This projects is being created using SpringMVC, JPA and MySql
